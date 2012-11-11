@@ -1,0 +1,1 @@
+../vncScript/restartapp.sh

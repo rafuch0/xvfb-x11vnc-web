@@ -1,0 +1,4 @@
+xvfb-x11vnc-web
+-------------------
+
+Script to start processes in their own x-session and give java web interface or vnc access

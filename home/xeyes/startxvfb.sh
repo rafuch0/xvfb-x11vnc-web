@@ -1,0 +1,1 @@
+../vncScript/startxvfb.sh
